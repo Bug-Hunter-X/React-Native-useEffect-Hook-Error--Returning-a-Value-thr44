@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native when using the `useEffect` hook and provides a solution. The error occurs when a value (other than `undefined`) is returned from the effect function.  The solution shows how to correctly use `useEffect` with cleanup functions.
